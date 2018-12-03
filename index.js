@@ -1,1 +1,1 @@
-fake javascript code:
+fake javascript code
